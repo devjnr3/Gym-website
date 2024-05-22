@@ -1,10 +1,12 @@
 # Developer Williams
 
+[Email Me](mailto:archywilliams2@gmail.com)
+
 ## Gym Fitness Website
 
 This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript.
 
-- Visit the website on `https://william-gym-website.netlify.app/`
+- Visit the website on [Gym Website](https://william-gym-website.netlify.app/)
 
 ## Technologies Used:
 
